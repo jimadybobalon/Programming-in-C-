@@ -1,0 +1,6 @@
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.30\bin\Debug\1.30.exe.config
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.30\bin\Debug\1.30.exe
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.30\bin\Debug\1.30.pdb
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.30\obj\Debug\1.30.csprojResolveAssemblyReference.cache
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.30\obj\Debug\1.30.exe
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.30\obj\Debug\1.30.pdb

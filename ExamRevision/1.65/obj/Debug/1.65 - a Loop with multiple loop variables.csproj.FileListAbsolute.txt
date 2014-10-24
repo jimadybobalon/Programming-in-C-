@@ -1,0 +1,5 @@
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.65\bin\Debug\1.65.exe.config
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.65\bin\Debug\1.65.exe
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.65\bin\Debug\1.65.pdb
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.65\obj\Debug\1.65.exe
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.65\obj\Debug\1.65.pdb

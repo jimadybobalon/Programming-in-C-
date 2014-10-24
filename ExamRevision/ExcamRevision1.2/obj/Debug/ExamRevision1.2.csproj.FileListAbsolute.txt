@@ -1,0 +1,2 @@
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\ExcamRevision1.2\bin\Debug\ExcamRevision1.2.exe.config
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\ExcamRevision1.2\obj\Debug\ExamRevision1.2.csprojResolveAssemblyReference.cache

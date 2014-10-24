@@ -1,0 +1,6 @@
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.60\bin\Debug\1.60.exe.config
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.60\bin\Debug\1.60.exe
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.60\bin\Debug\1.60.pdb
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.60\obj\Debug\1.60 - The Conditional Operator.csprojResolveAssemblyReference.cache
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.60\obj\Debug\1.60.exe
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.60\obj\Debug\1.60.pdb

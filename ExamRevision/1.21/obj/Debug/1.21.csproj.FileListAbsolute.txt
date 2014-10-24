@@ -1,0 +1,13 @@
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.21\bin\Debug\1.21.exe.config
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.21\bin\Debug\1.21.exe
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.21\bin\Debug\1.21.pdb
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.21\obj\Debug\1.21.csprojResolveAssemblyReference.cache
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.21\obj\Debug\MainWindow.baml
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.21\obj\Debug\MainWindow.g.cs
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.21\obj\Debug\App.g.cs
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.21\obj\Debug\1.21_MarkupCompile.cache
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.21\obj\Debug\1.21.g.resources
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.21\obj\Debug\_1._21.Properties.Resources.resources
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.21\obj\Debug\1.21.csproj.GenerateResource.Cache
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.21\obj\Debug\1.21.exe
+C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.21\obj\Debug\1.21.pdb
