@@ -10,14 +10,14 @@ namespace _1._95
     {
         static void Main()
         {
-            try
-            {
-                ProcessOrder();
-            }
-            catch (MessageQueueException Ex)
-            {
-                throw new OrderProcessingException("Error while processing order", Ex)
-            }
+            //try
+            //{
+            //    ProcessOrder();
+            //}
+            //catch (MessageQueueException Ex)
+            //{
+            //    throw new OrderProcessingException("Error while processing order", Ex)
+            //}
         }
     }
 }

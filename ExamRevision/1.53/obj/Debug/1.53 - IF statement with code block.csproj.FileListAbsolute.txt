@@ -1,6 +1,0 @@
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.53\bin\Debug\1.53.exe.config
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.53\bin\Debug\1.53.exe
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.53\bin\Debug\1.53.pdb
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.53\obj\Debug\1.53 - IF statement with code block.csprojResolveAssemblyReference.cache
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.53\obj\Debug\1.53.exe
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.53\obj\Debug\1.53.pdb

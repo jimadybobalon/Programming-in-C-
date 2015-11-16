@@ -10,17 +10,17 @@ namespace _1._57
     {
         static void Main()
         {
-            if(x) 
-            {
-                if(y)
-                {
-                    F();
-                }
-            }
-            else
-            {
-                G();
-            }
+            //if(x) 
+            //{
+            //    if(y)
+            //    {
+            //        F();
+            //    }
+            //}
+            //else
+            //{
+            //    G();
+            //}
         }
     }
 }

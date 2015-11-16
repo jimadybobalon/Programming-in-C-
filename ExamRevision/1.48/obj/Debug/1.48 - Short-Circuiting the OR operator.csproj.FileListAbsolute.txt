@@ -1,6 +1,0 @@
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.48\bin\Debug\1.48.exe.config
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.48\bin\Debug\1.48.exe
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.48\bin\Debug\1.48.pdb
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.48\obj\Debug\1.48.exe
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.48\obj\Debug\1.48.pdb
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.48\obj\Debug\1.48 - Short-Circuiting the OR operator.csprojResolveAssemblyReference.cache

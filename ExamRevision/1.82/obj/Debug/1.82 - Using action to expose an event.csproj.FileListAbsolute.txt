@@ -1,6 +1,0 @@
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.82\obj\Debug\1.82 - Using action to expose an event.csprojResolveAssemblyReference.cache
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.82\bin\Debug\1.82.exe.config
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.82\bin\Debug\1.82.exe
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.82\bin\Debug\1.82.pdb
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.82\obj\Debug\1.82.exe
-C:\Users\stuart.mclellan\Documents\Visual Studio 2013\Projects\CalendarApp\ExamRevision\1.82\obj\Debug\1.82.pdb

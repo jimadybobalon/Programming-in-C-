@@ -13,33 +13,33 @@ namespace _1._72
 
         void CannotChangeForEachIteationVariable()
         {
-            var people = new List<Person>
-            {
-                new Person() {Firstname = "John", Lastname = "Doe"}
-                new Person() {Firstname = "jane", Lastname = "Doe"}
-            };
+            //var people = new List<Person>
+            //{
+            //    new Person() {Firstname = "John", Lastname = "Doe"}
+            //    new Person() {Firstname = "jane", Lastname = "Doe"}
+            //};
 
-            foreach(Person p in people)
-            {
-                p.Lastname = "Changed"; //This is allowed
-                // p = new Person(); //this gives a complier error
-            }
+            //foreach(Person p in people)
+            //{
+            //    p.Lastname = "Changed"; //This is allowed
+            //    // p = new Person(); //this gives a complier error
+            //}
 
-            List<Person>.Enumerator e = people.GetEnumerator();
+            //List<Person>.Enumerator e = people.GetEnumerator();
 
-            try
-            {
-                Person v;
-                while (e.MoveNext())
-                {
-                    v = e.Current;
-                }
-            }
-            finally
-            {
-                System.IDisposable d = e as System.IDisposable;
-                if (d != null) d.Dispose();
-            }
+            //try
+            //{
+            //    Person v;
+            //    while (e.MoveNext())
+            //    {
+            //        v = e.Current;
+            //    }
+            //}
+            //finally
+            //{
+            //    System.IDisposable d = e as System.IDisposable;
+            //    if (d != null) d.Dispose();
+            //}
         }
 
 

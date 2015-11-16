@@ -8,6 +8,11 @@ namespace _1._60
 {
     static class Program
     {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World");
+        }
+
         private static int GetValue(bool p)
         {
             if (p)

@@ -12,7 +12,7 @@ namespace _1._78
         void DoSomething(TextWriter tw) { }
         public delegate void ContravarianceDel(StreamWriter tw);
 
-        ContravarianceDel del = DoSomething;
+        //ContravarianceDel del = DoSomething;
 
         static void Main()
         {

@@ -15,8 +15,8 @@ namespace _1._77
         public StreamWriter MethodString() { return null; }
 
         CovarianceDel del;
-        del = MethodStream;
-        del = MethodString;
+        //del = MethodStream;
+        //del = MethodString;
 
         static void Main()
         {

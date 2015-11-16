@@ -13,6 +13,7 @@ namespace _1._1
                 Thread.Sleep(0);
             }
         }
+
         public static void Main()
         {
             Thread t = new Thread(new ThreadStart(ThreadMethod));
