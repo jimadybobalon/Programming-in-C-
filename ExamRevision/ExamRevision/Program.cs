@@ -11,8 +11,6 @@ namespace _1._1
             {
                 Console.WriteLine("ThreadProc: {0}", i);
                 Thread.Sleep(0);
-
-                xxxx
             }
         }
 
