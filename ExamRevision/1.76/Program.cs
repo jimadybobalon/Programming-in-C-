@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _1._76
 {
@@ -20,18 +16,14 @@ namespace _1._76
 
         public delegate void Del();
 
-        public static void mulitcast()
+        static void Main()
         {
             Del d = MethodOne;
             d += MethodTwo;
 
-            d();
+            d(); // MethodOne, MethodTwo
 
             Console.Read();
-        }
-        static void Main()
-        {
-            mulitcast();
         }
     }
 }

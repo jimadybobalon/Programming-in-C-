@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.01 - Creating a thread with the Thread Class", "ExamRevision\1.01 - Creating a thread with the Thread Class.csproj", "{6823C1E7-42F0-4DDD-BD51-D2486C270755}"
 EndProject
@@ -75,7 +75,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "The Parallel Class", "The P
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Using aSync and aWait", "Using aSync and aWait", "{A3B4EE3A-258E-4F00-9306-E31F56A338A4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Using Concutrrent Collections", "Using Concutrrent Collections", "{EE0D3CF6-5252-43A4-BDBF-BE92EE38AC74}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Using Concurrent Collections", "Using Concurrent Collections", "{EE0D3CF6-5252-43A4-BDBF-BE92EE38AC74}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.32 - Using a ConcurrentStack", "1.32\1.32 - Using a ConcurrentStack.csproj", "{7C2469F3-DF68-4CFB-BC3A-464B70CFD43D}"
 EndProject

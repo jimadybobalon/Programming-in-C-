@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _1._79
 {
@@ -12,8 +8,7 @@ namespace _1._79
 
         static void Main()
         {
-            Calculate calc = 
-                (x, y) =>
+            Calculate calc = (x, y) =>
                     {
                         Console.WriteLine("adding numbers");
                         return x + y;
