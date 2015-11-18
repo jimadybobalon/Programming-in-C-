@@ -10,7 +10,6 @@ namespace _1._75
         public static int Add(int x, int y) { return x + y; }
         public static int Multiply(int x, int y) { return x * y; }
 
-        asdfkljalksdf
 
         static void Main()
         {
