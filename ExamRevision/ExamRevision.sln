@@ -197,7 +197,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.4 Create and Implement Ev
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Understanding Delegates", "Understanding Delegates", "{95BE1F2E-18BF-4526-9136-BD20793D2CBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.75 - Using a Delegate", "1.75\1.75 - Using a Delegate.csproj", "{B0964055-4449-4F23-9602-DD35B9CC2029}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.75 - Using a Delegate - START HERE", "1.75\1.75 - Using a Delegate - START HERE.csproj", "{B0964055-4449-4F23-9602-DD35B9CC2029}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.76 - A multicast delegate", "1.76\1.76 - A multicast delegate.csproj", "{2EA4636B-35B3-430B-90C1-D9663BFA3B2C}"
 EndProject
