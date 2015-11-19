@@ -2,7 +2,6 @@
 
 namespace _1._75
 {
-    error
     // when we want a variable to reference a method
     // a delegate is a type just like a class or struct
     class Program
