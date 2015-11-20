@@ -16,6 +16,7 @@ namespace _1._10
             }).ContinueWith((i) =>
             {
                 return i.Result * 2;
+                //Empty Comment
             });
             Console.WriteLine(t.Result);
         }
