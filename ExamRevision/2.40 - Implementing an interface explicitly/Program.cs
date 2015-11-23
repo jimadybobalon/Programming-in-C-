@@ -16,6 +16,7 @@ namespace _2._40
         interface IRight{
             void Move();
         }
+
         class MoveableOject : ILeft, IRight{
             void ILeft.Move() {
                 Console.WriteLine("Left");

@@ -26,6 +26,8 @@ namespace _2._01
         static void Main(string[] args){
             Days readingDays = Days.Monday | Days.Saturday;
 
+            
+
             switch (readingDays) {
             case Days.Monday | Days.Tuesday:
 

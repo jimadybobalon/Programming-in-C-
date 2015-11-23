@@ -7,9 +7,13 @@ using System.Threading.Tasks;
 namespace _2._17
 {
 
-    class Original
+    abstract class AbstractClass{
+        public virtual int MyMethod() { return 1; }
+    }
+
+    class Original : AbstractClass
     {
-        public virtual int MyMethod()
+        public override int MyMethod()
         {
             return 42;
         }

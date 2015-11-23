@@ -26,8 +26,17 @@ namespace _2._18
         class Derived2 : Derived
         {
             // This line would give a compile error
-            // public override int MyMethod() { return 1;}
+            //public override int MyMethod() { return 1;}
         }
+
+        sealed class SealedTest{
+            
+
+        }
+
+        //class SealedTest2 : SealedTest {
+        //
+        //}
 
         static void Main(string[] args)
         {

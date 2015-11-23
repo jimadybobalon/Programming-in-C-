@@ -13,11 +13,13 @@ namespace _2._13
         {
             private bool hasValue;
             private T value;
+
             public Nullable(T value)
             {
                 this.hasValue = true;
                 this.value = value;
             }
+
             public bool HasValue { get { return this.hasValue; } }
             public T Value
             {
@@ -46,7 +48,7 @@ namespace _2._13
         static void Main(string[] args)
         {
 
-            Nullable<TestStruct> nullableTest = new Nullable<TestStruct>(new TestStruct());
+            Nullable<TestStruct> nullableTest = new Nullable<TestStruct>();
 
         }
     }

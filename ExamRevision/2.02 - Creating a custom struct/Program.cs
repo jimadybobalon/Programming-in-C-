@@ -25,8 +25,9 @@ namespace _2._02
             }
         }
 
-        static void Main(string[] args)
-        {
+        static void Main(string[] args){
+            Point point = new Point();
+            Point point2 = new Point(1, 2);
         }
     }
 }
