@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2._24___Implicit_and_explicit_conversion_operators
+namespace _2._24
 {
     class Program
     {

@@ -253,7 +253,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.98 - Creating a custom ex
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 2", "Chapter 2", "{5E856236-5E78-4527-A097-FA2C35A19C51}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1", "2.1", "{2EA0F8A2-C1A4-41E5-BA9E-41553FAF7CF0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1 Create Types", "2.1 Create Types", "{2EA0F8A2-C1A4-41E5-BA9E-41553FAF7CF0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.01 - Using the FlagAttribute for an enum", "Using the FlagAttribute for an enum\2.01 - Using the FlagAttribute for an enum.csproj", "{5D0EF1FD-79D3-4F93-8B8F-0AB7C961889E}"
 EndProject
@@ -277,9 +277,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.17 - Overriding a virtual
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.18 - Using the sealed keyword on a method", "2.18 - Using the sealed keyword on a method\2.18 - Using the sealed keyword on a method.csproj", "{4C9FA6E5-3489-4AC6-8906-8BAEECBE4918}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2", "2.2", "{712B2A9D-C1F8-4608-A072-E3AFC69B3B43}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2 Consume Types", "2.2 Consume Types", "{712B2A9D-C1F8-4608-A072-E3AFC69B3B43}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.24 - Implicit and explicit conversion operators", "2.24 - Implicit and explicit conversion operators\2.24 - Implicit and explicit conversion operators.csproj", "{01B37051-97B2-41D8-9B85-BFD62FB38D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.26 - Using the built-in Convert and Parse methods", "2.26 - Using the built-in Convert and Parse methods\2.26 - Using the built-in Convert and Parse methods.csproj", "{4996AAAC-3F6F-4D10-95AF-4FCE4E51919C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.28 - Dynamic keyword", "2.28 - Dynamic keyword\2.28 - Dynamic keyword.csproj", "{1C9E0007-EA38-4997-AE35-42AFB5F363BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.3 Enforce Encapsulation", "2.3 Enforce Encapsulation", "{FD72D058-63B3-4942-A77A-8FC6745BA261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.37 - Creating a property", "2.37 - Encapsulation\2.37 - Creating a property.csproj", "{5A1AC15C-C330-4715-B197-ABD9F749C83C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.40 - Implementing an interface explicitly", "2.40 - Implementing an interface explicitly\2.40 - Implementing an interface explicitly.csproj", "{34BF80BB-D80E-48EB-9279-6F68965BEAA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.4 Create and Implement a Class Heirarchy", "2.4 Create and Implement a Class Heirarchy", "{6419F447-06E9-47E0-9C88-6AC003AE74B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -727,6 +739,22 @@ Global
 		{01B37051-97B2-41D8-9B85-BFD62FB38D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01B37051-97B2-41D8-9B85-BFD62FB38D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01B37051-97B2-41D8-9B85-BFD62FB38D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4996AAAC-3F6F-4D10-95AF-4FCE4E51919C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4996AAAC-3F6F-4D10-95AF-4FCE4E51919C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4996AAAC-3F6F-4D10-95AF-4FCE4E51919C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4996AAAC-3F6F-4D10-95AF-4FCE4E51919C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9E0007-EA38-4997-AE35-42AFB5F363BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9E0007-EA38-4997-AE35-42AFB5F363BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9E0007-EA38-4997-AE35-42AFB5F363BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9E0007-EA38-4997-AE35-42AFB5F363BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1AC15C-C330-4715-B197-ABD9F749C83C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1AC15C-C330-4715-B197-ABD9F749C83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1AC15C-C330-4715-B197-ABD9F749C83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1AC15C-C330-4715-B197-ABD9F749C83C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34BF80BB-D80E-48EB-9279-6F68965BEAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BF80BB-D80E-48EB-9279-6F68965BEAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BF80BB-D80E-48EB-9279-6F68965BEAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BF80BB-D80E-48EB-9279-6F68965BEAA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -869,5 +897,11 @@ Global
 		{4C9FA6E5-3489-4AC6-8906-8BAEECBE4918} = {2EA0F8A2-C1A4-41E5-BA9E-41553FAF7CF0}
 		{712B2A9D-C1F8-4608-A072-E3AFC69B3B43} = {5E856236-5E78-4527-A097-FA2C35A19C51}
 		{01B37051-97B2-41D8-9B85-BFD62FB38D26} = {712B2A9D-C1F8-4608-A072-E3AFC69B3B43}
+		{4996AAAC-3F6F-4D10-95AF-4FCE4E51919C} = {712B2A9D-C1F8-4608-A072-E3AFC69B3B43}
+		{1C9E0007-EA38-4997-AE35-42AFB5F363BD} = {712B2A9D-C1F8-4608-A072-E3AFC69B3B43}
+		{FD72D058-63B3-4942-A77A-8FC6745BA261} = {5E856236-5E78-4527-A097-FA2C35A19C51}
+		{5A1AC15C-C330-4715-B197-ABD9F749C83C} = {FD72D058-63B3-4942-A77A-8FC6745BA261}
+		{34BF80BB-D80E-48EB-9279-6F68965BEAA2} = {FD72D058-63B3-4942-A77A-8FC6745BA261}
+		{6419F447-06E9-47E0-9C88-6AC003AE74B9} = {5E856236-5E78-4527-A097-FA2C35A19C51}
 	EndGlobalSection
 EndGlobal
