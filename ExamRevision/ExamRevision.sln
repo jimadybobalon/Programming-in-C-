@@ -293,6 +293,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.40 - Implementing an inte
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.4 Create and Implement a Class Heirarchy", "2.4 Create and Implement a Class Heirarchy", "{6419F447-06E9-47E0-9C88-6AC003AE74B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.42 - Interface Extras", "2.42 - Interface Extras\2.42 - Interface Extras.csproj", "{7E708B9C-414A-46AB-91ED-C504450295B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.43 - Generic Type Interfaces", "2.43 - Generic Type Interfaces\2.43 - Generic Type Interfaces.csproj", "{904159C0-BA92-416D-89A5-2EEFF90237F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -755,6 +759,14 @@ Global
 		{34BF80BB-D80E-48EB-9279-6F68965BEAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34BF80BB-D80E-48EB-9279-6F68965BEAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34BF80BB-D80E-48EB-9279-6F68965BEAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E708B9C-414A-46AB-91ED-C504450295B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E708B9C-414A-46AB-91ED-C504450295B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E708B9C-414A-46AB-91ED-C504450295B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E708B9C-414A-46AB-91ED-C504450295B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904159C0-BA92-416D-89A5-2EEFF90237F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904159C0-BA92-416D-89A5-2EEFF90237F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904159C0-BA92-416D-89A5-2EEFF90237F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904159C0-BA92-416D-89A5-2EEFF90237F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -903,5 +915,7 @@ Global
 		{5A1AC15C-C330-4715-B197-ABD9F749C83C} = {FD72D058-63B3-4942-A77A-8FC6745BA261}
 		{34BF80BB-D80E-48EB-9279-6F68965BEAA2} = {FD72D058-63B3-4942-A77A-8FC6745BA261}
 		{6419F447-06E9-47E0-9C88-6AC003AE74B9} = {5E856236-5E78-4527-A097-FA2C35A19C51}
+		{7E708B9C-414A-46AB-91ED-C504450295B1} = {6419F447-06E9-47E0-9C88-6AC003AE74B9}
+		{904159C0-BA92-416D-89A5-2EEFF90237F2} = {6419F447-06E9-47E0-9C88-6AC003AE74B9}
 	EndGlobalSection
 EndGlobal
