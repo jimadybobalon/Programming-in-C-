@@ -9,7 +9,7 @@ namespace _2._43___Generic_Type_Interfaces
     class Program
     {
 
-        interface IRepository<T>{
+        interface IRepository<T> where T : Student{
             T FindById(int id);
             IEnumerable<T> All(); 
         }
@@ -20,7 +20,7 @@ namespace _2._43___Generic_Type_Interfaces
             public int age = 0;
             public int year = 1;
         }
-
+        
         class Students : IRepository<Student>{
             public Dictionary<int, Student> students;
 
@@ -32,6 +32,28 @@ namespace _2._43___Generic_Type_Interfaces
                 return students.Values;
             } 
         }
+        
+        /////////////////////////////////////////////////////////
+
+        class VulnerableStudent : Student{
+            public string info;
+        }
+
+        class VulnerableStudents : IRepository<VulnerableStudent>{
+            public Dictionary<int, VulnerableStudent> students;
+
+            public VulnerableStudent FindById(int id)
+            {
+                return students[id];
+            }
+
+            public IEnumerable<VulnerableStudent> All()
+            {
+                return students.Values;
+            }
+        }
+
+        /////////////////////////////////////////////////////////
 
         static void Main(string[] args){
 

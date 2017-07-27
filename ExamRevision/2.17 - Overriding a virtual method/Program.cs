@@ -41,19 +41,7 @@ namespace _2._17
             //Declare Original as Derived
             Original polyOriginal = new Derived();
             Console.WriteLine(polyOriginal.MyMethod());
-
-
-
-//            var query =
-//from l in GetLeads()
-//where AddressLine1 != null && City != null && PostalCode != null && Region != null
-//select new MailingAddress
-//{ l.Name ?? "Our Neighbors", l.AddressLine1, l.AddressLine2,
-//l.City,
-//l.Region, l.PostalCode };
-
-
-
+            
             Console.Read();
         }
     }

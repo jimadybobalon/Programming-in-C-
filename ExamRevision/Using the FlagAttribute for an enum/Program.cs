@@ -24,7 +24,7 @@ namespace _2._01
         
 
         static void Main(string[] args){
-            Days readingDays = Days.Monday | Days.Saturday;
+            Days readingDays = Days.Wednesday | Days.Saturday;
 
             
 
@@ -32,12 +32,42 @@ namespace _2._01
             case Days.Monday | Days.Tuesday:
 
                 break;
-            case Days.Saturday | Days.Sunday:
+            case Days.Saturday:
                 Console.WriteLine("Weekend!");
                 break;
             }
 
             Days setAlarmOn = Days.Monday | Days.Tuesday | Days.Sunday;
+
+            if ((setAlarmOn & Days.Monday) == Days.Monday){
+                Console.WriteLine("Monday");
+            }
+
+            if (setAlarmOn == Days.Tuesday){
+                Console.WriteLine("Tuesday");
+            }
+
+            if (setAlarmOn == Days.Wednesday){
+                Console.WriteLine("Wednesday");
+            }
+
+            if (setAlarmOn == Days.Thursday){
+                Console.WriteLine("Thursday");
+            }
+
+            if (setAlarmOn == Days.Friday){
+                Console.WriteLine("Friday");
+            }
+
+            if (setAlarmOn == Days.Saturday){
+                Console.WriteLine("Saturday");
+            }
+
+            if (setAlarmOn == Days.Sunday){
+                Console.WriteLine("Sunday");
+            }
+
+            Console.Read();
         }
     }
 }
